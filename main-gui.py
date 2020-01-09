@@ -1,7 +1,5 @@
-from tkinter import filedialog
 from tkinter import *
 from library.video import Video
-from gui.library.image import ImageFrame
 from model import FaceEncodings
 from env import INPUT_FOLDER, LIGHT_GRAY, join_path
 from gui.components.panels import Panels

@@ -2,6 +2,7 @@ from PIL import ImageTk, Image
 import cv2
 import numpy as np
 
+
 contrast = 1
 brightness = 1
 
