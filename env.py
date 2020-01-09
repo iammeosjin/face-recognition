@@ -1,7 +1,6 @@
 """
 environment variables or the folder structures
 """
-
 import os
 
 join_path = os.path.join
@@ -20,3 +19,8 @@ if not os.path.exists(TEST_FOLDER):
 
 if not os.path.exists(OUTPUT_FOLDER):
     os.makedirs(OUTPUT_FOLDER)
+
+
+LIGHT_GRAY = "#CDCDCD"
+RED = "#FF0000"
+WHITE = "#FFFFFF"
