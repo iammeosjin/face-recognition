@@ -3,3 +3,4 @@
 - using the python3 environment: 
     `conda install -c menpo dlib` and
     `pip install -r requirements.txt`
+- run `main-gui.py`
